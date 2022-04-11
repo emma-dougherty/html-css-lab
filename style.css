@@ -1,0 +1,36 @@
+header{
+    background-color: dodgerblue;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+h1 {
+    text-align: left;
+    vertical-align: center;
+}
+
+h1 a {
+    float: right;
+    list-style-type: none;
+    color: white;
+    font-size: 15px;
+    padding-top: 10px;
+    /* vertical-align: center; */
+}
+
+.menu{
+    list-style-type: none;
+    color: white;
+    
+}
+
+header > nav  a:link {
+    color: white;
+
+
+}
+
+body>main>div>div>{
+   
+}
